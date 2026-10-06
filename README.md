@@ -1,0 +1,2 @@
+# BoardSinc
+Projecte SMX
