@@ -1,0 +1,30 @@
+{
+  "flota": [
+    {
+      "referencia_id": "Najaden",
+      "id_interno": 1,
+      "id_custom": "qwerty",
+      "estado": "ACTIVO",
+      "vida_actual": 40,
+      "tripulacion_actual": "VETERANA",
+      "mejoras_instaladas": [],
+      "oficial_ref": "Johan Olfert Fischer",
+      "danos_activos": [],
+      "disparos": {},
+      "observaciones": ""
+    },
+    {
+      "referencia_id": "1ª Clase Armada Noruego-Danesa",
+      "id_interno": 2,
+      "id_custom": "",
+      "estado": "ACTIVO",
+      "vida_actual": 104,
+      "tripulacion_actual": "REGULAR",
+      "mejoras_instaladas": [],
+      "oficial_ref": null,
+      "danos_activos": [],
+      "disparos": {},
+      "observaciones": ""
+    }
+  ]
+}

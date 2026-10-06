@@ -1,0 +1,20 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="BS-FG.exe">
+    <Properties Name="DebuggerProjectSystem">
+      <Property Name="AttachLaunchAction" Value="Yes" />
+      <Property Name="Environment" Value="Predeterminado" />
+      <Property Name="Executable" Value="C:\BlackSeas\phyton\BS1.10\dist\BS-FG.exe" />
+      <Property Name="IORedirection" Value="Auto" />
+      <Property Name="LaunchingEngine" Value="00000000-0000-0000-0000-000000000000" />
+      <Property Name="LaunchSQLEngine" Value="No" />
+      <Property Name="PortSupplier" Value="3b476d38-a401-11d2-aad4-00c04f990171" />
+      <Property Name="RemoteMachine" />
+      <Property Name="StartingDirectory" Value="C:\BlackSeas\phyton\BS1.10\dist" />
+      <Property Name="UseLegacyDebugEngines" Value="No" />
+    </Properties>
+  </Project>
+</Solution>

@@ -1,0 +1,76 @@
+{
+  "flota": [
+    {
+      "NOMBRE": "Najaden",
+      "Facción": "Armada Noruego-Danesa",
+      "TIPO": "3ª Clase enrrasado",
+      "TAMAÑO": "M",
+      "PUNTOS DE BARCO": "170",
+      "TRIPULACIÓN": "VETERANO",
+      "MEJORAS_LIST": [],
+      "OFICIAL_DATA": null,
+      "CAPTURADO": false,
+      "RENDIDO": false,
+      "ID_CUSTOM": "",
+      "ID_INTERNO": 1,
+      "RENOMBRE": true,
+      "VIDA_TOTAL": 40,
+      "VIDA_ACTUAL": 40,
+      "TOTAL": 200
+    },
+    {
+      "NOMBRE": "1ª Clase Armada Noruego-Danesa",
+      "Facción": "Armada Noruego-Danesa",
+      "TIPO": "1ª Clase Armada Noruego-Danesa",
+      "TAMAÑO": "XL",
+      "PUNTOS DE BARCO": "450",
+      "TRIPULACIÓN": "REGULAR",
+      "MEJORAS_LIST": [
+        {
+          "Nombre": "Tiradores",
+          "Puntos": 20,
+          "Descripción": "Puede repetir tirada de fuego de mosquete.",
+          "TAMANO": ""
+        },
+        {
+          "Nombre": "Sobreartillado",
+          "Puntos": 100,
+          "Descripción": " +1H y +1L a cada costado. No disponible para barcos sin clasificar. (No compatible con Carronadas Extra)",
+          "TAMANO": ""
+        },
+        {
+          "Nombre": "Armas Giratorias",
+          "Puntos": 30,
+          "Descripción": "Antes de la primera ronda de abordaje realiza una Prueba de Habilidad, si la superas el barco enemigo sufre 4 puntos de daño.",
+          "TAMANO": ""
+        },
+        {
+          "Nombre": "Robusto",
+          "Puntos": 60,
+          "Descripción": " +20 puntos de vida.",
+          "TAMANO": ""
+        }
+      ],
+      "OFICIAL_DATA": {
+        "Facción": "Armada Noruego-Danesa",
+        "Nombre": "Johan Olfert Fischer",
+        "Puntos": 40,
+        "Descripción": "Puede volver a tirar todos los dados de su primera andanada. Cuando su barco tenga menos del 50% de vida puede trasladarse a otro barco, este puede volver a usar la habilidad anterior."
+      },
+      "CAPTURADO": false,
+      "RENDIDO": false,
+      "ID_CUSTOM": "",
+      "ID_INTERNO": 2,
+      "RENOMBRE": false,
+      "VIDA_TOTAL": 164,
+      "VIDA_ACTUAL": 164,
+      "TOTAL": 700,
+      "CARRONADAS_BABOR": 0,
+      "CARRONADAS_ESTRIBOR": 0,
+      "CANON_PESADO_BABOR": 5,
+      "CANON_LIGERO_BABOR": 5,
+      "CANON_PESADO_ESTRIBOR": 5,
+      "CANON_LIGERO_ESTRIBOR": 5
+    }
+  ]
+}

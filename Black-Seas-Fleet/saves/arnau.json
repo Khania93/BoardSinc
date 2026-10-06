@@ -1,0 +1,40 @@
+{
+  "flota": [
+    {
+      "NOMBRE": "1ª Clase Armada Otomana",
+      "Facción": "Armada Otomana",
+      "TIPO": "1ª Clase Armada Otomana",
+      "TAMAÑO": "XL",
+      "PUNTOS DE BARCO": "450",
+      "TRIPULACIÓN": "REGULAR",
+      "MEJORAS_LIST": [],
+      "OFICIAL_DATA": null,
+      "CAPTURADO": false,
+      "RENDIDO": false,
+      "ID_CUSTOM": "",
+      "ID_INTERNO": 1,
+      "RENOMBRE": false,
+      "VIDA_TOTAL": 104,
+      "VIDA_ACTUAL": 104,
+      "TOTAL": 450
+    },
+    {
+      "NOMBRE": "Masudiya",
+      "Facción": "Armada Otomana",
+      "TIPO": "1ª Clase",
+      "TAMAÑO": "XL",
+      "PUNTOS DE BARCO": "500",
+      "TRIPULACIÓN": "VETERANO",
+      "MEJORAS_LIST": [],
+      "OFICIAL_DATA": null,
+      "CAPTURADO": false,
+      "RENDIDO": false,
+      "ID_CUSTOM": "",
+      "ID_INTERNO": 10,
+      "RENOMBRE": true,
+      "VIDA_TOTAL": 120,
+      "VIDA_ACTUAL": 120,
+      "TOTAL": 600
+    }
+  ]
+}

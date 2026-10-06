@@ -1,0 +1,71 @@
+{
+  "application": {
+    "name": "Black Seas Fleet Builder",
+    "version": "1.0.0",
+    "language": "es",
+    "theme": "naval",
+    "fullscreen": false,
+    "window": {
+      "width": 1600,
+      "height": 900,
+      "maximized": false
+    }
+  },
+
+  "player": {
+    "default_name": "Tripulante",
+    "last_faction": "",
+    "last_points": 3000
+  },
+
+  "game": {
+    "default_points": 3000,
+    "autosave": true,
+    "autosave_minutes": 5,
+    "confirm_delete": true,
+    "allow_duplicate_names": true,
+    "show_disabled_ships": true,
+    "show_tooltips": true
+  },
+
+  "display": {
+    "show_logo": true,
+    "show_background": true,
+    "show_ship_images": true,
+    "show_status_icons": true,
+    "animations": true,
+    "high_quality_images": true
+  },
+
+  "interface": {
+    "font_family": "Garamond",
+    "font_size": 11,
+    "table_row_height": 26,
+    "icon_size": 24,
+    "color_theme": "naval"
+  },
+
+  "files": {
+    "excel_file": "data/Black_Seas.xlsx",
+    "save_folder": "saves",
+    "export_folder": "exports",
+    "log_folder": "logs"
+  },
+
+  "export": {
+    "json": true,
+    "excel": true,
+    "pdf": false
+  },
+
+  "logging": {
+    "enabled": true,
+    "level": "INFO"
+  },
+
+  "developer": {
+    "debug": false,
+    "show_console": false,
+    "profile_mode": false
+  }
+}

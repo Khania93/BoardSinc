@@ -1,0 +1,6 @@
+# FILE: requirements.txt
+pandas>=1.5.0
+openpyxl>=3.0.0
+Pillow>=9.0.0
+pyinstaller>=5.0
+tkinter is part of stdlib (no se instala via pip)

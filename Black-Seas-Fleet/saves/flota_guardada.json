@@ -1,0 +1,52 @@
+{
+  "flota": [
+    {
+      "NOMBRE": "1ª Clase Armada Noruego-Danesa",
+      "Facción": "Armada Noruego-Danesa",
+      "TIPO": "1ª Clase Armada Noruego-Danesa",
+      "TAMAÑO": "XL",
+      "PUNTOS DE BARCO": "450",
+      "TRIPULACIÓN": "VETERANO",
+      "MEJORAS_LIST": [
+        {
+          "Nombre": "Sobreartillado",
+          "Puntos": 100,
+          "Descripción": " +1H y +1L a cada costado. No disponible para barcos sin clasificar. (No compatible con Carronadas Extra)",
+          "TAMANO": ""
+        },
+        {
+          "Nombre": "Robusto",
+          "Puntos": 60,
+          "Descripción": " +20 puntos de vida.",
+          "TAMANO": ""
+        },
+        {
+          "Nombre": "Casco Aerodinámico",
+          "Puntos": 30,
+          "Descripción": " +1\" al primer movimiento por activación.",
+          "TAMANO": ""
+        }
+      ],
+      "OFICIAL_DATA": {
+        "Facción": "Armada Noruego-Danesa",
+        "Nombre": "Johan Olfert Fischer",
+        "Puntos": 40,
+        "Descripción": "Puede volver a tirar todos los dados de su primera andanada. Cuando su barco tenga menos del 50% de vida puede trasladarse a otro barco, este puede volver a usar la habilidad anterior."
+      },
+      "CAPTURADO": false,
+      "RENDIDO": false,
+      "ID_CUSTOM": "Ragnarok",
+      "ID_INTERNO": 1,
+      "RENOMBRE": false,
+      "VIDA_TOTAL": 144,
+      "VIDA_ACTUAL": 144,
+      "TOTAL": 770,
+      "CARRONADAS_BABOR": 0,
+      "CARRONADAS_ESTRIBOR": 0,
+      "CANON_PESADO_BABOR": 3,
+      "CANON_LIGERO_BABOR": 3,
+      "CANON_PESADO_ESTRIBOR": 3,
+      "CANON_LIGERO_ESTRIBOR": 3
+    }
+  ]
+}

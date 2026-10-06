@@ -1,0 +1,61 @@
+{
+  "flota": [
+    {
+      "NOMBRE": "Najaden",
+      "Facción": "Armada Noruego-Danesa",
+      "TIPO": "3ª Clase enrrasado",
+      "TAMAÑO": "M",
+      "PUNTOS DE BARCO": "170",
+      "TRIPULACIÓN": "VETERANO",
+      "MEJORAS_LIST": [],
+      "OFICIAL_DATA": null,
+      "CAPTURADO": false,
+      "RENDIDO": false,
+      "ID_CUSTOM": "",
+      "ID_INTERNO": 1,
+      "RENOMBRE": true,
+      "VIDA_TOTAL": 40,
+      "VIDA_ACTUAL": 40,
+      "ESTADO": "ACTIVO",
+      "TOTAL": 200
+    },
+    {
+      "NOMBRE": "1ª Clase Armada Noruego-Danesa",
+      "Facción": "Armada Noruego-Danesa",
+      "TIPO": "1ª Clase Armada Noruego-Danesa",
+      "TAMAÑO": "XL",
+      "PUNTOS DE BARCO": "450",
+      "TRIPULACIÓN": "REGULAR",
+      "MEJORAS_LIST": [],
+      "OFICIAL_DATA": null,
+      "CAPTURADO": false,
+      "RENDIDO": false,
+      "ID_CUSTOM": "",
+      "ID_INTERNO": 2,
+      "RENOMBRE": false,
+      "VIDA_TOTAL": 104,
+      "VIDA_ACTUAL": 104,
+      "ESTADO": "ACTIVO",
+      "TOTAL": 450
+    },
+    {
+      "NOMBRE": "2ª Clase Armada Noruego-Danesa",
+      "Facción": "Armada Noruego-Danesa",
+      "TIPO": "2ª Clase Armada Noruego-Danesa",
+      "TAMAÑO": "XL",
+      "PUNTOS DE BARCO": "400",
+      "TRIPULACIÓN": "REGULAR",
+      "MEJORAS_LIST": [],
+      "OFICIAL_DATA": null,
+      "CAPTURADO": false,
+      "RENDIDO": false,
+      "ID_CUSTOM": "",
+      "ID_INTERNO": 3,
+      "RENOMBRE": false,
+      "VIDA_TOTAL": 96,
+      "VIDA_ACTUAL": 96,
+      "ESTADO": "ACTIVO",
+      "TOTAL": 400
+    }
+  ]
+}

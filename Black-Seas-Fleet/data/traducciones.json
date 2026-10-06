@@ -1,0 +1,175 @@
+{
+    "es": {
+
+        "app_name": "Black Seas Fleet Builder",
+
+        "home": {
+            "title": "Black Seas",
+            "new_game": "Nueva partida",
+            "load_game": "Cargar flota",
+            "campaign": "Campaña",
+            "library": "Biblioteca",
+            "settings": "Configuración",
+            "exit": "Salir",
+            "player_name": "Nombre del jugador",
+            "welcome": "Bienvenido"
+        },
+
+        "menu": {
+            "file": "Archivo",
+            "edit": "Editar",
+            "view": "Ver",
+            "tools": "Herramientas",
+            "help": "Ayuda"
+        },
+
+        "fleet": {
+            "title": "Generador de Flotas",
+            "available_ships": "Barcos disponibles",
+            "current_fleet": "Flota actual",
+            "add_ship": "Añadir barco",
+            "remove_ship": "Eliminar barco",
+            "configure_ship": "Astillero",
+            "clear_fleet": "Limpiar flota",
+            "remaining_points": "Puntos restantes",
+            "target_points": "Puntos objetivo",
+            "faction": "Facción"
+        },
+
+        "ship": {
+            "name": "Nombre",
+            "type": "Tipo",
+            "size": "Tamaño",
+            "crew": "Tripulación",
+            "points": "Puntos",
+            "life": "Vida",
+            "damage": "Daño",
+            "breakpoint": "Ruptura",
+            "speed": "Velocidad",
+            "status": "Estado",
+            "captured": "Capturado",
+            "surrendered": "Rendido",
+            "sunk": "Hundido",
+            "active": "Activo",
+            "open_sheet": "Abrir ficha"
+        },
+
+        "crew": {
+            "inexperienced": "Inexperto",
+            "regular": "Regular",
+            "veteran": "Veterano"
+        },
+
+        "upgrades": {
+            "title": "Mejoras",
+            "officer": "Oficial de renombre",
+            "save": "Guardar",
+            "cancel": "Cancelar",
+            "captured": "Barco capturado",
+            "max_upgrades": "Máximo de mejoras",
+            "effects": "Efectos aplicados"
+        },
+
+        "campaign": {
+            "title": "Campaña",
+            "new": "Nueva campaña",
+            "continue": "Continuar campaña",
+            "missions": "Misiones",
+            "history": "Historial"
+        },
+
+        "library": {
+            "title": "Biblioteca",
+            "ships": "Barcos",
+            "upgrades": "Mejoras",
+            "officers": "Oficiales",
+            "rules": "Reglas",
+            "scenarios": "Escenarios"
+        },
+
+        "buttons": {
+            "accept": "Aceptar",
+            "cancel": "Cancelar",
+            "close": "Cerrar",
+            "save": "Guardar",
+            "delete": "Eliminar",
+            "search": "Buscar",
+            "filter": "Filtrar",
+            "refresh": "Actualizar"
+        },
+
+        "messages": {
+            "error": "Error",
+            "warning": "Aviso",
+            "information": "Información",
+            "confirm": "Confirmación",
+            "saved": "Datos guardados correctamente.",
+            "deleted": "Elemento eliminado.",
+            "loading": "Cargando...",
+            "no_selection": "No hay ningún elemento seleccionado.",
+            "points_exceeded": "No tienes suficientes puntos.",
+            "duplicate_upgrade": "No puedes seleccionar una mejora duplicada.",
+            "max_ships": "Has alcanzado el número máximo permitido de este barco.",
+            "file_not_found": "No se ha encontrado el archivo.",
+            "invalid_file": "Archivo no válido.",
+            "save_success": "La partida se ha guardado correctamente.",
+            "load_success": "La partida se ha cargado correctamente."
+        },
+
+        "status": {
+            "ready": "Listo",
+            "loading": "Cargando",
+            "saving": "Guardando",
+            "finished": "Finalizado"
+        }
+
+    },
+
+    "en": {
+
+        "app_name": "Black Seas Fleet Builder",
+
+        "home": {
+            "title": "Black Seas",
+            "new_game": "New Game",
+            "load_game": "Load Fleet",
+            "campaign": "Campaign",
+            "library": "Library",
+            "settings": "Settings",
+            "exit": "Exit",
+            "player_name": "Player Name",
+            "welcome": "Welcome"
+        },
+
+        "fleet": {
+            "title": "Fleet Builder",
+            "available_ships": "Available Ships",
+            "current_fleet": "Current Fleet",
+            "add_ship": "Add Ship",
+            "remove_ship": "Remove Ship",
+            "configure_ship": "Dockyard",
+            "clear_fleet": "Clear Fleet",
+            "remaining_points": "Remaining Points",
+            "target_points": "Target Points",
+            "faction": "Faction"
+        },
+
+        "buttons": {
+            "accept": "Accept",
+            "cancel": "Cancel",
+            "close": "Close",
+            "save": "Save",
+            "delete": "Delete",
+            "search": "Search"
+        },
+
+        "messages": {
+            "error": "Error",
+            "warning": "Warning",
+            "information": "Information",
+            "saved": "Data saved successfully.",
+            "loading": "Loading...",
+            "points_exceeded": "You do not have enough points."
+        }
+    }
+}
