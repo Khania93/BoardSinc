@@ -58,7 +58,8 @@ o lectors externs USB/Bluetooth.
 La disponibilitat i compatibilitat d'aquests dispositius són
 dependències del sistema. No es concreta si el projecte fabricarà o
 distribuirà aquests elements físics.
-####4.3. Fora de l'abast o pendent de concretar
+
+#### 4.3. Fora de l'abast o pendent de concretar
 La documentació disponible no especifica si el projecte inclourà:
 - El disseny, la fabricació o la distribució de miniatures i etiquetes
   NFC.
