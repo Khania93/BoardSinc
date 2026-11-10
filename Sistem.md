@@ -1,4 +1,5 @@
-[Sistema Boardsinc]([img/Sistema_BoardSinc.png])
+[Sistema Boardsinc](img/Sistema_BoardSinc.png)
+
 
 ## Actors del sistema
 #### 3.1. Jugador tradicional o casual
