@@ -1,3 +1,5 @@
+[Sistema Boardsinc](img/"sistema BoardSinc.png")
+
 ## Actors del sistema
 #### 3.1. Jugador tradicional o casual
 És l'usuari que utilitza la plataforma com a eina de consulta i suport
